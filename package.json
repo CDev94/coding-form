@@ -1,0 +1,11 @@
+{
+  "name": "coding-form",
+  "version": "1.0.0",
+  "description": "HTML Form",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Curdarious Bell",
+  "license": "ISC"
+}
